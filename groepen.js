@@ -1,1 +1,5 @@
-console.log("Geef je geboortedatum in (JJJJMMDD): 20201010");
+function getGroep(datum) {
+    console.log("U zit in groep:" + datum%7);
+}
+
+getGroep(20201010);
