@@ -1,0 +1,1 @@
+console.log("Geef je geboortedatum in (JJJJMMDD): 20201010");
